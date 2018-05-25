@@ -17,7 +17,7 @@ export default class App extends React.Component {
           <Text>Changes you make will automatically reload.</Text>
           <Text>Shake your phone to open the developer menu.</Text>
           <Text>Shake your phone to open the developer menu.</Text>
-          <Text>Shake your phone to open the developdfder menu.</Text>
+          <Text>Shake your phone to open the developdfd er menu.</Text>
           <Image source={{uri:'http://www.arcadenoe.pt/img/race/big_978.jpg'}}
                 style={{width: 221, height: 228}}/> 
           <Agradecimento pessoa="quack"/>
